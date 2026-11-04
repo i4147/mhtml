@@ -1,0 +1,8 @@
+# Runtime dependencies
+loguru>=0.7
+lxml>=5.3
+lxml-html-clean>=0.4
+tinycss2>=1.4
+
+# Test dependency
+pytest>=8
